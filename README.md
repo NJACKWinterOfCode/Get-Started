@@ -121,7 +121,11 @@ You can learn more about Git and GitHub here:
 Yes, definitely! You can register anytime during the entire duration of the program and start contributing to the various projects. It is never late to contribute to the projects :-)
 
 1. **What prizes shall I receive?**  
-Apart from a digital certificate, whatever merchandise we obtain from the sponsors, we'll distribute those among the active contributors. However, we would like to emphasise on the fact that this is more of a program to encourage Open Source, rather than a contest. So, your aim should be to learn along with the community and enjoy working on the projects, rather than to compete to get to the top. Cheers :-)
+Apart from a digital certificate from NJACK IIT Patna, whatever merchandise and some swags we obtain from the sponsors, would be distributed among the active contributors. 
+
+    **Letter of Recommendation (LoRs) from NJACK, IIT Patna can be provided to the top and active contributors on review of their work.**
+
+    However, we would like to emphasise on the fact that this is more of a program to encourage Open Source, rather than a contest. So, your aim should be to learn along with the community and enjoy working on the projects, rather than to compete to get to the top. Cheers :-)
 
 1. **Which language should I know to participate in NWoC?**  
 We will try to include projects in almost all common programming languages. However, you will have to work with Git and GitHub to contribute to any of the projects. You can learn to use these during NWoC itself, or you can start learning them from https://classroom.udacity.com/courses/ud775.
